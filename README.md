@@ -24,11 +24,11 @@ This project is a PHP-based feedback form that allows users to submit feedback w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/feedback-form.git```
+   git clone https://github.com/your-username/feedback-form.git
 
 2. Navigate to the project directory:
-
-cd feedback-form
+   ```bash
+   cd feedback-form
 
 3. Configure your web server to serve the public/ directory.
 
